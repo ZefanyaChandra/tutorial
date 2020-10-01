@@ -11,6 +11,12 @@ That flesh is heir to, ’tis a consummation
 Devoutly to be wish’d. To die, to sleep;
 To sleep: perchance to dream: ay, there’s the rub.
 
+Lord Polonius: What do you read, my lord?
+Hamlet: Words, words, words.
+Lord Polonius: What is the matter, my lord?
+Hamlet: Between who?
+Lord Polonius: I mean, the matter that you read, my lord.
+
 My words fly up, my thoughts remain below: Words without thoughts never to heaven go
 This above all: to thine own self be true
 Now cracks a noble heart. Good-night, sweet prince;
